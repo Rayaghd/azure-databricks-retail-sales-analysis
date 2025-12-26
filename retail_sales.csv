@@ -1,0 +1,6 @@
+transaction_id,sale_date,product_category,product_name,quantity,unit_price,total_amount,store_location
+1,2024-01-05,Electronics,Headphones,2,50,100,New York
+2,2024-01-06,Clothing,T-Shirt,3,20,60,Chicago
+3,2024-02-01,Electronics,Keyboard,1,80,80,New York
+4,2024-02-10,Groceries,Milk,5,4,20,Boston
+5,2024-03-15,Clothing,Jacket,1,120,120,Seattle
